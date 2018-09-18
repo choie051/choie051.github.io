@@ -10,6 +10,7 @@ body {
     margin-left: 30%;
     margin-right: 30%;
     background-color: rgb(255, 238, 0);
+    font-kerning: auto;
 }
 
 #link {
