@@ -13,6 +13,7 @@ body {
     margin-bottom: 20%;
     background-color: rgb(255, 238, 0);
     height: 50px;
+    width: 100 px;
     display: inline-block;
     font-kerning: auto;
 }
