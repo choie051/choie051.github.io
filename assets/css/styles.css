@@ -3,12 +3,13 @@ body {
     font-size: 10px;
     font-family: 'Karla', sans-serif;
     text-align: center;
+    color: white;
 }
 
 .firstheader {
     margin-left: 30%;
     margin-right: 30%;
-    background-color: white;
+    background-color: rgb(255, 238, 0);
 }
 
 #link {
