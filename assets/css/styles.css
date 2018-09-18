@@ -1,7 +1,7 @@
 body {
-    background: #ffffaa;
+    background: #c9e2ff;
     font-size: 30px;
-    font-family: Karla;
+    font-family: 'Karla', sans-serif;
 }
 
 .firstheader {
@@ -10,5 +10,6 @@ body {
 }
 
 #link {
-    text-decoration: blue
+    text-decoration: blue;
+    font-family: 'Karla', sans-serif;
 }
