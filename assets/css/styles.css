@@ -1,4 +1,14 @@
 body {
-    background: #ffa;
+    background: #ffffaa;
     font-size: 30px;
+    font-family: Karla;
+}
+
+.firstheader {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#link {
+    text-decoration: blue
 }
