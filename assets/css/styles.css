@@ -21,4 +21,10 @@ body {
 #link {
     text-decoration: blue;
     font-family: 'Karla', sans-serif;
+    margin-left: -40px;
+}
+
+ul {
+    text-align: center;
+    list-style-position: left;
 }

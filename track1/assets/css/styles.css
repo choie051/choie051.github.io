@@ -1,0 +1,16 @@
+.header {
+  text-align: center;
+  font-family: karla;
+  margin-top: 25%;
+  margin-bottom: 20%;
+  color: #ff0;
+}
+
+.yellow {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30%;
+    background-attachment: fixed;
+    width: 300px;
+}
