@@ -1,0 +1,48 @@
+body {
+  background-color: blue;
+}
+
+.c {
+  margin: 100px 30px 0 30px;
+  display: inline-block;
+  font-size: 14px;
+}
+
+.b {
+  margin: 20px 30px 0 30px;
+  font-family:karla;
+}
+
+.grid {
+  text-align: center;
+  width: 960px;
+  margin: 0 auto 0 auto;
+  /* auto means it is calculated for us and divides by 2 */
+  background: blue;
+}
+
+.c1 { width: 130px; }
+.c2 { width: 130px; }
+.c3 { width: 130px; }
+
+
+
+img:hover {
+  background: blue;
+}
+
+img {
+  width: 75%;
+}
+
+.tooltip {
+  z-index:999;
+  max-width: 300px;
+  margin:10px 10px 10px 10px;
+  text-transform: lowercase;
+  font-size: 9px;
+  color: gray;
+  background-color:white;
+  border-radius:5px;
+  padding:1px 5px 1px 5px;
+  }
