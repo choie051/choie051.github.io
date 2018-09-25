@@ -18,8 +18,18 @@ body {
     font-kerning: auto;
 }
 
-#link {
-    text-decoration: blue;
+p {
+    margin-top: -20px;
+}
+
+.secondheader {
+    margin-top: 50%;
+    margin-bottom: 25%;
+}
+
+
+a {
+    text-decoration: #000000;
     font-family: 'Karla', sans-serif;
     margin-left: -40px;
 }
