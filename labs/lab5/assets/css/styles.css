@@ -1,0 +1,24 @@
+body {
+    background: #c9e2ff;
+    font-size: 10px;
+    font-family: 'Karla', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.firstheader {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 25%;
+    margin-bottom: 20%;
+    background-color: rgb(255, 238, 0);
+    height: 50px;
+    width: 150px;
+    display: inline-block;
+    font-kerning: auto;
+}
+
+#link {
+    text-decoration: blue;
+    font-family: 'Karla', sans-serif;
+}
