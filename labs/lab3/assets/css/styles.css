@@ -1,24 +1,77 @@
+* {
+    box-sizing: border-box;
+    vertical-align: top;
+}
+
 body {
-    background: #c9e2ff;
-    font-size: 10px;
-    font-family: 'Karla', sans-serif;
-    text-align: center;
+    background: yellow;
+    margin: 0;
+    font-size: 20px;
+    font-family: Spirax;
+}
+
+.square {
     color: white;
+    padding: 20px;
+    width: 300px;
+    height: 300px;
+    background: #00f;
 }
 
-.firstheader {
-    margin-left: 30%;
-    margin-right: 30%;
-    margin-top: 25%;
-    margin-bottom: 20%;
-    background-color: rgb(255, 238, 0);
+.circle {
+    width: 50px;
     height: 50px;
-    width: 150px;
-    display: inline-block;
-    font-kerning: auto;
+    background: red;
+    border-radius: 25px;
 }
 
-#link {
-    text-decoration: blue;
-    font-family: 'Karla', sans-serif;
+.rel {
+    position: relative;
+    top: -10px;
+    left: 100px;
+}
+
+.abs {
+    position: absolute;
+    top: 0%;
+    right: 0;
+}
+
+.fix {
+    position: fixed;
+    top: 0%;
+    right: 0%;
+}
+
+.byline {
+    background: white;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.avatar {
+    width: 50px;
+    height: 50px;
+    background: #c2c2c2;
+    border-radius: 100%;
+    display: inline-block;
+    margin: 0 5px 0 0;
+    position: relative;
+}
+
+.name {
+    position: relative;
+    top: 10px;
+}
+
+.initials {
+    font-size: 18px;
+    line-height: 1;
+    color: grey;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* ask about transform */
 }
