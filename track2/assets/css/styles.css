@@ -46,3 +46,11 @@ img {
   border-radius:5px;
   padding:1px 5px 1px 5px;
   }
+
+  .home {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 10%;
+    font-family: karla;
+    font-size:11px;
+  }
