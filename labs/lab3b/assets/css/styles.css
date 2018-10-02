@@ -1,24 +1,79 @@
+* {
+    box-sizing: border-box;
+    vertical-align: top;
+}
+
 body {
-    background: #c9e2ff;
-    font-size: 10px;
-    font-family: 'Karla', sans-serif;
-    text-align: center;
-    color: white;
+    background:white
+    margin: 0;
 }
 
-.firstheader {
-    margin-left: 30%;
-    margin-right: 30%;
-    margin-top: 25%;
-    margin-bottom: 20%;
-    background-color: rgb(255, 238, 0);
-    height: 50px;
-    width: 150px;
+.green {
+    background: #009e4f;
+    width: 368px;
+    height: 368px;
+}
+
+.blue {
+    background: #202665;
+    width: 568px;
+    height: 568px;
+}
+
+.redstrip {
+    background: #d0021b;
+    width: 768px;
+    height: 100px;
+    position: relative;
+    top: 100px;
+    left: 0px;
+}
+
+.yellow {
+    background:#F8E71C;
+    width: 768px;
+    height: 768px;
+}
+
+.rel { 
+    position: relative;
+    top: 100px; 
+    left: 100px;
+}
+
+
+.one {
+    background: #ED2025;
+    width: 334px;
+    height: 70.75px;
     display: inline-block;
-    font-kerning: auto;
+    margin: 17px 0 0 17px;
+    position: relative;
 }
 
-#link {
-    text-decoration: blue;
-    font-family: 'Karla', sans-serif;
+.two {
+    background: #ED2025;
+    width: 334px;
+    height: 70.75px;
+    display: inline-block;
+    margin: 17px 0 0 17px;
+    position: relative;
+}
+
+.three {
+    background: #ED2025;
+    width: 334px;
+    height: 70.75px;
+    display: inline-block;
+    margin: 17px 0 0 17px;
+    position: relative;
+}
+
+.four {
+    background: #ED2025;
+    width: 334px;
+    height: 70.75px;
+    display: inline-block;
+    margin: 17px 0 0 17px;
+    position: relative;
 }
