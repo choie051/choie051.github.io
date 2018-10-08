@@ -1,0 +1,20 @@
+body {
+  background: black;
+}
+
+.wrapper {
+  font-family: karla;
+  text-transform: uppercase;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.r {
+  padding: 10px;
+  margin-bottom: 60px;
+}
+
+img {
+  width: 100px;
+  border-radius: 100px;
+}
